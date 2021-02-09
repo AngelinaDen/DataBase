@@ -1,0 +1,17 @@
+C:\Users\Ангелина\Desktop\database\DataBase\DataBase\bin\x64\Debug\DataBase.exe.config
+C:\Users\Ангелина\Desktop\database\DataBase\DataBase\bin\x64\Debug\DataBase.exe
+C:\Users\Ангелина\Desktop\database\DataBase\DataBase\bin\x64\Debug\DataBase.pdb
+C:\Users\Ангелина\Desktop\database\DataBase\DataBase\obj\x64\Debug\DataBase.Form1.resources
+C:\Users\Ангелина\Desktop\database\DataBase\DataBase\obj\x64\Debug\DataBase.Properties.Resources.resources
+C:\Users\Ангелина\Desktop\database\DataBase\DataBase\obj\x64\Debug\DataBase.csproj.GenerateResource.cache
+C:\Users\Ангелина\Desktop\database\DataBase\DataBase\obj\x64\Debug\DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Ангелина\Desktop\database\DataBase\DataBase\obj\x64\Debug\DataBase.exe
+C:\Users\Ангелина\Desktop\database\DataBase\DataBase\obj\x64\Debug\DataBase.pdb
+C:\Users\Ангелина\Desktop\database\DataBase\DataBase\obj\x64\Debug\DataBase.csprojAssemblyReference.cache
+C:\Users\Ангелина\Desktop\database\DataBase\DataBase\bin\x64\Debug\1Database.mdb
+C:\Users\Ангелина\Desktop\database\DataBase\DataBase\obj\x64\Debug\DataBase.Form2.resources
+C:\Users\Ангелина\Desktop\database\DataBase\DataBase\obj\x64\Debug\DataBase.Form3.resources
+C:\Users\Ангелина\Desktop\database\DataBase\DataBase\obj\x64\Debug\DataBase.Form4.resources
+C:\Users\Ангелина\Desktop\database\DataBase\DataBase\obj\x64\Debug\DataBase.Form5.resources
+C:\Users\Ангелина\Desktop\database\DataBase\DataBase\obj\x64\Debug\DataBase.Form6.resources
+C:\Users\Ангелина\Desktop\database\DataBase\DataBase\obj\x64\Debug\DataBase.Form7.resources
